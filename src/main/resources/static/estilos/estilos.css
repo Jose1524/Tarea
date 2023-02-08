@@ -63,7 +63,7 @@ body {
 .nav {
     display: flex;
     justify-content: space-between;
-    max-width: 992px;
+    max-width: 980px;
     margin: 0 auto;
 }
 
@@ -74,8 +74,8 @@ body {
 
 .nav-menu {
     display: flex;
-    margin-right: 40px;
+    margin-right: 45px;
     list-style: none;
-    line-height: 80px;
+    line-height: 95px;
 }
 
